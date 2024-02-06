@@ -1,11 +1,11 @@
 # Site
-title:              dmaerzendorfer
+title:              David Märzendorfer
 bio:                'Portfolio and Doodads.'
 description:        ""
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/TransparentDuck.png'
-background:         'assets/img/placeholder-big.jpg'
+#background:         'assets/img/sleekBlack-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             de_AT
 url:                https://dmaerzendorfer.github.io
@@ -50,7 +50,7 @@ linkedin:          dmaerzendorfer
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              DAVE
+steam:              dmaerzy
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
