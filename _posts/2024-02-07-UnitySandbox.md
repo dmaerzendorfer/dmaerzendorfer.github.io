@@ -24,6 +24,7 @@ A few toys that are lying around in the sandbox currently are:
 * A generic score system
 * A fake liquid shader
 * A test implementation of VFX using the Skinned Mesh Renderer's Vertex Positions.
+* A system for changing color palettes. In addition I tested out some things with pixelization filters. 
 
 ### Repo
 <a href="https://github.com/dmaerzendorfer/UnitySandbox">https://github.com/dmaerzendorfer/UnitySandbox</a>
@@ -35,6 +36,7 @@ Your browser does not support the video tag.
 </video> -->
 ![Splines going Round]({{site.url}}/assets/img/sandbox/spline.gif)
 ![Silly Dance vanish boy]({{site.url}}/assets/img/sandbox/vanishBoy.gif)
+![Mage boi changing colors]({{site.url}}/assets/img/sandbox/ColourShifter.gif)
 
 
 {% capture images %}
