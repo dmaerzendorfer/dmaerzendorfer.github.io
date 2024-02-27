@@ -47,7 +47,7 @@ IntelliSynth was the topic for both my Theses. The first Thesis was created in c
 
 The division of labour here was that I covered the implementation of the usage of the already existing musicautobot model and the output over the Zynthian whilst florian was handling the MIDI interface and file format.
 
-At the end of the first Thesis we noticed a flaw in it: The prediction of the musicautobot is not in real-time. Whilst the model is creating a prediction one has to wait for it to finish. This hurts the process of creating music together.
+At the end of the first Thesis we noticed a flaw in it: The prediction of the musicautobot is not in real-time. Whilst the model is creating a prediction, one has to wait for it to finish. This hurts the process of creating music together.
 
 <figure>
 	<a href="{{site.url}}/assets/img/intellisynth/konzept1.png"><img src="{{site.url}}/assets/img/intellisynth/konzept1.png"></a>

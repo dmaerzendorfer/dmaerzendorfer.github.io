@@ -25,6 +25,7 @@ A few toys that are lying around in the sandbox currently are:
 * A fake liquid shader
 * A test implementation of VFX using the Skinned Mesh Renderer's Vertex Positions.
 * A system for changing color palettes. In addition I tested out some things with pixelization filters. 
+* A simple AudioManager. For the usage in GameJams where it is not worth it to integrate fmod or wwise.
 
 ### Repo
 <a href="https://github.com/dmaerzendorfer/UnitySandbox">https://github.com/dmaerzendorfer/UnitySandbox</a>
