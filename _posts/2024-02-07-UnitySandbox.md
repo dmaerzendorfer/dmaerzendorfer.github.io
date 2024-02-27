@@ -14,7 +14,7 @@ At some point I was bored and I wanted to learn and try out some things. Thats w
 
 My UnitySandbox is just a repo with a Unity Project in which I implement and try random things. The original thought was also to have some useful components lying around that could be used in a game jam for example.
 
-A few toys that are lying around in the sandbox currently are:
+A few toys that are currently lying around in the sandbox are:
 
 * A Spline Tool
 * A Healthbar Component
