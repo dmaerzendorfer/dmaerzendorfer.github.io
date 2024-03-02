@@ -26,6 +26,7 @@ A few toys that are currently lying around in the sandbox are:
 * A test implementation of VFX using the Skinned Mesh Renderer's Vertex Positions.
 * A system for changing color palettes. In addition I tested out some things with pixelization filters. 
 * A simple AudioManager. For the usage in GameJams where it is not worth it to integrate fmod or wwise.
+* A little experiment with cutting and shattering meshes during runtime.
 
 ### Repo
 <a href="https://github.com/dmaerzendorfer/UnitySandbox">https://github.com/dmaerzendorfer/UnitySandbox</a>
