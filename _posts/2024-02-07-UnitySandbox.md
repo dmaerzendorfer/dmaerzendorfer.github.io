@@ -38,6 +38,7 @@ Your browser does not support the video tag.
 ![Splines going Round]({{site.url}}/assets/img/sandbox/spline.gif)
 ![Silly Dance vanish boy]({{site.url}}/assets/img/sandbox/vanishBoy.gif)
 ![Mage boi changing colors]({{site.url}}/assets/img/sandbox/ColourShifter.gif)
+![Sphere getting shattered]({{site.url}}/assets/img/sandbox/ShatterDemo.gif)
 
 
 {% capture images %}
