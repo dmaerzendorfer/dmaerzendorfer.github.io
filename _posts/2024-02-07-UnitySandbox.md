@@ -45,7 +45,7 @@ Your browser does not support the video tag.
 {% capture images %}
 	{{site.url}}/assets/img/sandbox/fakeLiquid.png
 	{{site.url}}/assets/img/sandbox/healthBars.png
-	{{site.url}}/assets/img/sandbox/LobbySystem.png
+	{{site.url}}/assets/img/sandbox/lobbySystem.png
 {% endcapture %}
 {% include gallery images=images caption="Sandbox Images" cols=2 %}
 
