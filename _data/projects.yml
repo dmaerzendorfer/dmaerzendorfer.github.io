@@ -1,0 +1,9 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# bachelor thesis
+- project: IntelliSynth
+  role: Developer
+  duration: 2022
+  url: https://github.com/dmaerzendorfer/IntelliSynth
+  description: Bachelor-Thesis Project. An interactive musician using a transformer AI model which allows human and machine to create music together.

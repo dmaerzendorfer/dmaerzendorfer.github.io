@@ -1,0 +1,14 @@
+# Jobs
+# internship elements
+- company: elements.at
+  position: Intern as Back-end developer
+  duration: Feb, 2022 &mdash; Aug, 2022
+  summary: Back-end developer working with the php content management system Pimcore.
+
+#<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+
+# internship exc.io
+- company: ecx.io - an IBM Company
+  position: Intern
+  duration: 2018
+  summary: Internship in Quality Assurance. Responsible for writing automated tests in Selenium.

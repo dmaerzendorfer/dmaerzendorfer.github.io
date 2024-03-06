@@ -62,6 +62,61 @@ steam:              dmaerzy
 #xmpp:              username@server.com
 #hackernews:        username
 
+# Resume settings (based on https://github.com/jglovier/resume-template?tab=readme-ov-file)
+
+show_resume_in_home: "true"
+resume_avatar:                  "true"
+resume_name:                    "David Märzendorfer"
+resume_title:                   "Game Dev Student"
+
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "-"
+resume_contact_address:         "742 Evergreen Terrace, Springfield"
+
+resume_header_contact_info:     "telephonenumber • maerzyd@gmail.com"
+display_header_contact_info:    "false"
+
+resume_header_intro: "<p>I am currently doing my masters in Game Development at the University of applied Science in Salzburg Austria. I am also looking for work so if you are looking to employ someone and are interested, feel free to contact me.</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+# resume_section_recognition:     true
+# resume_section_links:           true
+# resume_section_associations:    true
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/dmaerzendorfer"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/dmaerzendorfer/"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "https://dmaerzendorfer.github.io/"
+  # resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
+
+
 # Gems
 gems:
   - jekyll-mentions
