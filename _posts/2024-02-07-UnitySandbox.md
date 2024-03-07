@@ -27,6 +27,7 @@ A few toys that are currently lying around in the sandbox are:
 * A system for changing color palettes. In addition I tested out some things with pixelization filters. 
 * A simple AudioManager. For the usage in GameJams where it is not worth it to integrate fmod or wwise.
 * A little experiment with cutting and shattering meshes during runtime.
+* A little 2.5D scene
 
 ### Repo
 <a href="https://github.com/dmaerzendorfer/UnitySandbox">https://github.com/dmaerzendorfer/UnitySandbox</a>
@@ -40,6 +41,7 @@ Your browser does not support the video tag.
 ![Silly Dance vanish boy]({{site.url}}/assets/img/sandbox/vanishBoy.gif)
 ![Mage boi changing colors]({{site.url}}/assets/img/sandbox/ColourShifter.gif)
 ![Sphere getting shattered]({{site.url}}/assets/img/sandbox/ShatterDemo.gif)
+![Breathing 2.5D lady in a forest]({{site.url}}/assets/img/sandbox/BreathingWizardLady.gif)
 
 
 {% capture images %}
