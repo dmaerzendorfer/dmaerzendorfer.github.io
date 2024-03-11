@@ -77,7 +77,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "telephonenumber • maerzyd@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am currently doing my masters in Game Development at the University of applied Science in Salzburg Austria. I am also looking for work so if you are looking to employ someone and are interested, feel free to contact me.</p>"
+resume_header_intro: "<p>I am currently doing my masters in Game Development at the University of applied Science in Salzburg Austria. I do have a background in media informatics and image processing. I like clean and simple code, learning things (currently trying to learn to draw/sketch) and tattoos :) </br>I am also looking for work so if you are looking to employ someone and are interested, feel free to contact me.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
