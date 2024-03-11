@@ -15,7 +15,7 @@ comments: false
 The theme of the game jam was: **"you are what you eat"**  
 
 So naturally we decided to make a game about **cannibalism!** After all, if a person eats another person, he remains a person. Duh.
-After some back and forth we ended up with the game **"Fötality: Föten sich töten"**. This is the german title which is a pun on fetus and fatality and roughly translates to *"Fetus-Fatality: Fetuses that kill each other"*.
+After some back and forth we ended up with the game **"Fötality: Föten die sich töten"**. This is the german title which is a pun on fetus and fatality and roughly translates to *"Fetus-Fatality: Fetuses that kill each other"*.
 
 The idea was to have Hannibal Lecter babies that eat each other in their mothers womb. We lovingly called our player characters *"Hannibal-lecker"*, once again a german pun translating to *"Hannibal-tasty"*.
 
