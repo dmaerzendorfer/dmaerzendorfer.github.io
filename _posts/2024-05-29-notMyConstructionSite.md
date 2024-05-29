@@ -10,7 +10,7 @@ tiled_bg: false
 comments: false
 ---
 
-**Nicht meine Baustelle**(german for "Not my construction site") is an art installation and the masters project of:
+**Nicht meine Baustelle** (german for "Not my construction site") is an art installation and the masters project of:
 
 - Annika Braun
 - Anja Gutschmidt
