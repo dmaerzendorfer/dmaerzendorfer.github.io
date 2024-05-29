@@ -25,4 +25,12 @@
   .goup-container {
     display: none;
   }
+
+  //somehow some line heights were messed up in the resume if you print to pdf...
+  .resume-item-details{
+    line-height: 1 !important;
+  }  
+  .executive-summary{
+    line-height: 1 !important;
+  }
 }
