@@ -30,6 +30,7 @@ GEM
       net-http
     ffi (1.16.3-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
+    gemoji (4.1.0)
     google-protobuf (3.25.2-x64-mingw-ucrt)
     html-pipeline (2.14.3)
       activesupport (>= 2)
@@ -66,6 +67,10 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    jemoji (0.13.0)
+      gemoji (>= 3, < 5)
+      html-pipeline (~> 2.2)
+      jekyll (>= 3.0, < 5.0)
     kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -117,6 +122,7 @@ DEPENDENCIES
   jekyll-gist
   jekyll-mentions
   jekyll-sitemap
+  jemoji
   webrick (~> 1.8)
 
 BUNDLED WITH

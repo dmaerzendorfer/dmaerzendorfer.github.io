@@ -124,6 +124,9 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
 
+plugins:
+  - jemoji 
+
 jekyll-mentions:
     base_url: https://github.com
 
