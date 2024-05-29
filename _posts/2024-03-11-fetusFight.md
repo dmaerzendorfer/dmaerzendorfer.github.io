@@ -1,21 +1,21 @@
 ---
 layout: post
-title: "Fetality"
+title: "Foetality"
 date: 2024-03-11
 excerpt: "An wacky game jam game."
-tags: [unity, 2player, 2d,  local, fetus, cannibalism, gamejam]
+tags: [unity, 2player, 2d,  local, foetus, cannibalism, gamejam]
 project: true
 feature: assets/img/fetusDeletus/kill.png
 tiled_bg: false
 comments: false
 ---
 
-<a href = "https://islberto-des-gemetzels.itch.io/foetality">**Fetality**</a> was created in 48h as part of the 10th <a href= "https://itch.io/jam/mmarmelade-game-jam">*MMArmalade Game jam*</a> organised by students of the MMA course of the University of Applied Science Salzburg.  
+<a href = "https://islberto-des-gemetzels.itch.io/foetality">**Foetality**</a> was created in 48h as part of the 10th <a href= "https://itch.io/jam/mmarmelade-game-jam">*MMArmalade Game jam*</a> organised by students of the MMA course of the University of Applied Science Salzburg.  
 
 The theme of the game jam was: **"you are what you eat"**  
 
 So naturally we decided to make a game about **cannibalism!** After all, if a person eats another person, he remains a person. Duh.
-After some back and forth we ended up with the game **"Fötality: Föten die sich töten"**. This is the german title which is a pun on fetus and fatality and roughly translates to *"Fetality: Fetuses that kill each other"*.
+After some back and forth we ended up with the game **"Fötality: Föten die sich töten"**. This is the german title which is a pun on fetus and fatality and roughly translates to *"Foetality: Fetuses that kill each other"*.
 
 The idea was to have Hannibal Lecter babies that eat each other in their mothers womb. We lovingly called our player characters *"Hannibal-lecker"*, once again a german pun translating to *"Hannibal-tasty"*.
 
