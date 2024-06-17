@@ -63,5 +63,6 @@ The most anyoying part of this project was getting the raspi to **consistently a
 	{{site.url}}/assets/img/nmcs/toilet.jpeg
 	{{site.url}}/assets/img/nmcs/toiletSetup.jpeg
 	{{site.url}}/assets/img/nmcs/pylons.jpeg
+	{{site.url}}/assets/img/nmcs/toiletView.jpg
 {% endcapture %}
 {% include gallery images=images caption="Gallery Images" cols=3 %}

@@ -24,5 +24,6 @@ Further info can be found <a href="https://portfolio.fh-salzburg.ac.at/projects/
 	{{site.url}}/assets/img/biteMeBoss/ydd_1.png
 	{{site.url}}/assets/img/biteMeBoss/Title.jpeg
 	{{site.url}}/assets/img/biteMeBoss/conceptArt.png
+	{{site.url}}/assets/img/biteMeBoss/biteMePlaying.jpg
 {% endcapture %}
 {% include gallery images=images caption="Game Images" cols=3 %}
