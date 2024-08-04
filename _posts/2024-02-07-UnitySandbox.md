@@ -30,7 +30,8 @@ A few toys that are currently lying around in the sandbox are:
 * A little 2.5D scene
 * A procedural 2d face with googly eyes!
 	* I found a nice package which does everything, I mereley fixed some bugs. (https://forum.unity.com/threads/procedural-eyes.454758/)
-
+* A base version of a 2D ragdoll character that I used in my game Foetality.
+* A simple AudioManager for Unity-AudioSources, specifically for the usage in GameJams where the requirements are low.
 ### Repo
 <a href="https://github.com/dmaerzendorfer/UnitySandbox">https://github.com/dmaerzendorfer/UnitySandbox</a>
 
