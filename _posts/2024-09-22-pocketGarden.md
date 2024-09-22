@@ -30,7 +30,7 @@ In the end the game ended up being more of a cute little toy where you can use f
 {% capture images %}
 	{{site.url}}/assets/img/pocketGarden/pocketGardenHeart.png
 	{{site.url}}/assets/img/pocketGarden/flowersCircle.png
-	{{site.url}}/assets/img/pocketGarden/smileGarden.jpeg
+	{{site.url}}/assets/img/pocketGarden/SmileGarden.jpeg
 	{{site.url}}/assets/img/pocketGarden/TeamGarden.jpeg
 {% endcapture %}
 {% include gallery images=images caption="Some screenshots of the game and the us developing" cols=3 %}
