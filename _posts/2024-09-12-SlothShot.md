@@ -29,7 +29,7 @@ In order to answer, they are tasked to take a marble and shoot it at their answe
 My general idea was that I want to create a physical game that doesn't need much explaining, something that brings people fun and makes them slow down (like a sloth). 
 Originally I wanted to split up the users into teams by asking them 'Do you have procrastinated today?'. Depending on their answer they got to shoot with either colourful or plain marbles and there was just a single target. This was changed however due to the simple reason that there are not many plain color marbles available.
 
-So the salt-lake was already at the locale of the Schmiede which was neat. The slingshot I tinkered together myself, at first I wanted to let them throw the marbles, but let's be honest: slingshots make everything more fun!
+So the salt-lake was already at the locale of the Schmiede which was neat for catching any flying marbles. The slingshot I tinkered together myself, at first I wanted to let them throw the marbles, but let's be honest: slingshots make everything more fun!
 
 ## Gallery 
 
@@ -45,6 +45,17 @@ So the salt-lake was already at the locale of the Schmiede which was neat. The s
 	{{site.url}}/assets/img/schmiede/SlothMe.jpeg
 {% endcapture %}
 {% include gallery images=images caption="Pictures on the exhibit and the schmiede in general" cols=3 %}
+
+## That was the plan at least...
+Turns out the city council is not that happy with marbles and people collecting said marbles in their salt pit. So I had to adjust things.
+
+I moved the whole exhibit to an corner out of the salt. Users shoot at a cloth to catch the marbles, the targets were just duct taped onto the cloth. They got some fancy rings tho. In the end it looked something like this:
+
+{% capture images %}
+	{{site.url}}/assets/img/schmiede/SlothTargetHoops.jpeg
+	{{site.url}}/assets/img/schmiede/newSlothLocation.jpeg
+{% endcapture %}
+{% include gallery images=images caption="The relocated sloth-shot" cols=2 %}
 
 ## Conclusion
 I have been to the Schmiede GameJam a few times already, but this time was the first time for me as part of the full Schmiede. I have to say it is quite enjoyable, the vibe is wonderful, there are wonderful people to connect with and there are also a few workshops to learn new things! Take for example a small workshop on creative blocks I visited where I crafted a little story about Bendy the Spoon.
