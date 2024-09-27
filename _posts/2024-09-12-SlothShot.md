@@ -52,7 +52,7 @@ Turns out the city council is not that happy with marbles and people collecting 
 I moved the whole exhibit to an corner out of the salt. Users shoot at a cloth to catch the marbles, the targets were just duct taped onto the cloth. They got some fancy rings tho. In the end it looked something like this:
 
 {% capture images %}
-	{{site.url}}/assets/img/schmiede/SlothTargetHoops.jpeg
+	{{site.url}}/assets/img/schmiede/slothTargetHoops.jpeg
 	{{site.url}}/assets/img/schmiede/newSlothLocation.jpeg
 {% endcapture %}
 {% include gallery images=images caption="The relocated sloth-shot" cols=2 %}
