@@ -38,6 +38,7 @@ disqus_shortname:   dmaerzendorfer
   #ad-slot:
 #bing-verify:
 email: maerzyd@gmail.com
+itch: maerzy #todo: have yet to implement a social-btn for itch since font awesome is outdated and has no itch icon
 #twitter:            username
 #facebook:           username
 github-url:         dmaerzendorfer
