@@ -259,6 +259,16 @@
             },
           },
         {%- endif -%}
+        {%- if site.itch_username -%}
+          {
+            id: 'socials-itch',
+            title: 'Itch',
+            section: 'Socials',
+            handler: () => {
+              window.open("https://{{ site.itch_username }}.itch.io", "_blank");
+            },
+          },
+        {%- endif -%}
         {%- if site.linkedin_username -%}
           {
             id: 'socials-linkedin',
