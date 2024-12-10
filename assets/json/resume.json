@@ -50,7 +50,8 @@
       "name": "IBM iX Austria GmbH",
       "position": "Intern",
       "url": "https://ibmix.de/",
-      "startDate": "2018",
+      "startDate": "2018-06-01",
+      "endDate": "2018-06-30",
       // "endDate": "1955-01-01",
       "summary": "Internship in Quality Assurance. Responsible for writing automated tests in Selenium.",
       "highlights": ["Automated Testing", "Selenium", "QA"]

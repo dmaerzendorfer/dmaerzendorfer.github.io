@@ -1,70 +1,93 @@
 ---
 layout: page
 title: IntelliSynth
-description: My Bachelors Thesis.
+description: My Bachelor Thesis.
 img: assets/img/intellisynth/experimentalSetup.png
 importance: 1
 # category: work
 related_publications: false
-#images:
-#  slider: true
-#toc:
-#  sidebar: left
-#related_posts: false
-#tags: Python mediapipe music AI
+images:
+  slider: true
+toc:
+  sidebar: left
+related_posts: false
 ---
 
 ## Intro
 
-Momo was a student project for the Mezzanin Theater in Graz Austria. It consisted out of an interactive lobby setup for the Mezannin Theater's production of Momo (a childrens book by Michael Ende, I love that story btw).
+IntelliSynth was the bachelors thesis of my ITS Bachelor at the University of Applied Science in Salzburg.
 
-Details to the theatre play can be found <a href="https://mezzanintheater.at/auffuehrungen/momo/">here</a>.
+IntelliSynth is a interactive Musician powered by AI. This means a human is able to play and compose music together with an AI.
 
-The project included a handtracking mini-game and a fotobox. The project was implemented by five students (including me) of the University of Applied Science in Salzburg.
-
-## Photobox
-
-The photobox was powered by a Raspberry Pi with a webcam. A Python script was running a OpenGL facial detection to trigger the camera shutter. The taken pictures of theatre guests were later exported to a USB for usage in the play itself. 
-
-My contribution on this part was bugfixing and getting things to run on the Raspberry.
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/momo/fotoBox1.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
-        {% include figure.liquid loading="eager" path="assets/img/momo/fotoBox2.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-<div class="caption">
-    The Photobox :)
-</div>
-
-## Hand-Tracking Mini-Game
-
-The Hand-Tracking Mini-Game is a game in which the players hands are tracked and water is spraying from their virtual hands' palms. The Players have to aim the water to destroy Grey-Men and reach a Highscore. With increasing score phrases from the book are shown on the screen.
-
-The Handtracking is handled by the <a href="https://developers.google.com/mediapipe">Google Mediapipe</a>. The python code for this runs in Unity and the resulting data points are visualised in a Scene.
-
-The water simulation is handled by the <a href="https://assetstore.unity.com/packages/tools/physics/zibra-liquid-266451">Zibra Liquid Package</a>.
-
-The sounddesign was handled with fmod.
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/momo/hands1.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
-        {% include figure.liquid loading="eager" path="assets/img/momo/hands2.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-<div class="caption">
-    The Handtracking in Unity :)
-</div>
-
-My contribution in this was the implementation of the hand tracking with mediapipe.   
-As well as the scoring system, the configuration system for book quotes that can be unlocked via scores, the highscore saving system and the integration of fmod.
+The concept is the following: 
+* a human is sitting at a piano and playing a few notes
+* after a while the AI (that has been recording the notes) takes over and continues the music
+* after a while the human takes over again
+* rinse and repeat
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/momo/momo_setup.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
-        {% include figure.liquid loading="eager" path="assets/img/momo/momoFinalRelease.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/intellisynth/interactiveMusician.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    The Handtracking in in Action :)
+    How the interactive Musician works.
 </div>
+
+---
+
+## Technical Details
+
+The core components of the IntelliSynth are a **e-piano** a **linux PC with IntelliSynth and musicautobot** and a **Raspberry Pi Zynthian**. IntelliSynth itself is written in python.
+
+The <a href="https://musicautobot.com/">musicautobot</a> is an already trained transformer AI model for musical MIDI data. It is able to continue music if feed in a MIDI syntax.   
+The <a href="https://zynthian.org/">Zynthian</a> is a Synthesizer that runs on a Raspberry Pi. It is able to synthesise any MIDI-Data to piano sounds.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/intellisynth/conceptDrawing.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/intellisynth/experimentalSetup.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    The IntelliSynth Setup.
+</div>
+
+---
+
+## Creation Story
+
+In my bachelor course it is customary to have two bachelor theses. The first one is written in a team of two and the second one is written alone.
+
+IntelliSynth was the topic for both my Theses. The first thesis was written in collaboration with Florian Hinterberger and consisted of creating the first prototype of the setup.
+
+The division of labour here was that I covered the implementation of the usage of the already existing musicautobot model and the output over the Zynthian whilst florian was handling the MIDI interface and file format.
+
+At the end of the first Thesis we noticed a flaw in it: The prediction of the musicautobot is not in real-time. Whilst the model is creating a prediction, one has to wait for it to finish. This hurts the process of creating music together.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/intellisynth/konzept1.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    The problem with the prediction.
+</div>
+
+
+The topic of my second thesis was to get rid of this waiting time.  
+This was achieved with the help of semaphores and a pipe. The prediction now starts in its own process whilst the user is still playing. The users last few inputs are no longer used for the prediction and are just a buffer-time for the prediction to kick in. The user does not notice anything about the prediction time.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/intellisynth/solutionKonzept.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">The realtime optimisation.
+</div>
+
+---
+
+## Repo
+<a href="https://github.com/dmaerzendorfer/IntelliSynth">https://github.com/dmaerzendorfer/IntelliSynth</a>
+
