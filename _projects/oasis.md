@@ -2,7 +2,7 @@
 layout: page
 title: Oasis
 description: A Mobile Game Prototype made with Godot.
-img: assets/img/oasis/OasisTitle.png
+img: assets/img/oasis/oasisTitle.png
 importance: 1
 # category: work
 related_publications: false
