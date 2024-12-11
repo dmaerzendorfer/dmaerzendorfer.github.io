@@ -4,7 +4,7 @@ title: Pocket Garden
 description: A mobile game about gardening.
 img: assets/img/pocketGarden/pocketGardenTitle.png
 importance: 1
-# category: work
+category: game
 related_publications: false
 images:
  slider: true

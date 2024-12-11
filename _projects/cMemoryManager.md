@@ -4,7 +4,7 @@ title: Memory-Manager in C
 description: An old assignment from my bachelor studies.
 img: https://img.freepik.com/free-vector/hand-drawn-flat-design-hard-drive-illustration_23-2149387390.jpg?t=st=1733839057~exp=1733842657~hmac=0d2f60a9db50ae1dbf98594d3601f78ea6cbdaacf1f08a8ef2dd43239d6b114e&w=740
 importance: 1
-# category: work
+category: university
 related_publications: false
 images:
  slider: true

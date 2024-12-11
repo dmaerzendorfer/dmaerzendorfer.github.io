@@ -4,7 +4,7 @@ title: Bite me, Boss
 description: Another 4 player local game created in my master studies.
 img: /assets/img/biteMeBoss/Title.jpeg
 importance: 3
-# category: work
+category: game 
 related_publications: false
 images:
  slider: true

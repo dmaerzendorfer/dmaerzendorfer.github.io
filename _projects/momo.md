@@ -4,7 +4,7 @@ title: Momo
 description: An interative game for a theatre play.
 img: https://mezzanintheater.at/wp-content/uploads/2023/05/Momo-%C2%A9-Clemens-Nestroy_57.jpg
 importance: 1
-# category: work
+category: game
 related_publications: false
 images:
  slider: true

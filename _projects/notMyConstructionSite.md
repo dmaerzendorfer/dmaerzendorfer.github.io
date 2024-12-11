@@ -4,7 +4,7 @@ title: Nicht meine Baustelle
 description: An art installation.
 img: assets/img/nmcs/NMCS_hero.jpeg
 importance: 1
-# category: work
+category: installation
 related_publications: false
 images:
  slider: true

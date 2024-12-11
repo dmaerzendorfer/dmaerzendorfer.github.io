@@ -4,7 +4,7 @@ title: IntelliSynth
 description: My Bachelor Thesis.
 img: assets/img/intellisynth/experimentalSetup.png
 importance: 1
-# category: work
+category: university
 related_publications: false
 images:
   slider: true

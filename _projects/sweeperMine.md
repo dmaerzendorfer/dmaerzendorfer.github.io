@@ -4,7 +4,7 @@ title: SweeperMine
 description: One of my first games.
 img: https://upload.wikimedia.org/wikipedia/commons/6/64/Minesweeper_9x9_10_example_16.png
 importance: 1
-# category: work
+category: game
 related_publications: false
 images:
  slider: true

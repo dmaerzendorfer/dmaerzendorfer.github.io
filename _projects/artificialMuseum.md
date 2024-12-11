@@ -4,7 +4,7 @@ title: Artificial Museum
 description: My artifact in the Artifical Museum.
 img: assets/img/artificialMuseum/museum.webp
 importance: 1
-# category: work
+category: installation
 related_publications: false
 images:
  slider: true

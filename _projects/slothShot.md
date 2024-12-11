@@ -4,7 +4,7 @@ title: Sloth-Shot
 description: An exhibit at the Schmiede 24.
 img: assets/img/schmiede/sloth2.webp
 importance: 1
-# category: work
+category: installation
 related_publications: false
 images:
  slider: true

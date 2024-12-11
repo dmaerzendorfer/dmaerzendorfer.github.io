@@ -4,7 +4,7 @@ title: Foetality
 description: An wacky Game Jam Game.
 img: assets/img/fetusDeletus/kill.png
 importance: 1
-# category: work
+category: game
 related_publications: false
 images:
  slider: true

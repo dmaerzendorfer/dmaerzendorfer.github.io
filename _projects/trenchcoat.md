@@ -4,7 +4,7 @@ title: Trenchc(o)at
 description: A little Game Jam game about cats going shopping.
 img: assets/img/trenchcoat/trenchCard.png
 importance: 1
-# category: work
+category: game
 related_publications: false
 images:
  slider: true

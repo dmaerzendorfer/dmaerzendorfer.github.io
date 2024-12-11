@@ -4,7 +4,7 @@ title: SNOKE
 description: My first Game jam Game.
 img: https://img.itch.zone/aW1nLzEwMTA0MTQ5LnBuZw==/315x250%23c/lHJf3U.png
 importance: 1
-# category: work
+category: game
 related_publications: false
 images:
  slider: true
