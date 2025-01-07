@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Wuseling
-description: An 4 player local game created in my master studies.
+description: A 4 player local game created in my master studies.
 img: assets/img/wuseling/title.png
 importance: 2
 category: game

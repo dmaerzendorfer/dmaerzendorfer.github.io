@@ -106,9 +106,9 @@
       "institution": "HTL Grieskirchen",
       "location": "Grieskirchen, Austria",
       "url": "https://www.htl-grieskirchen.at/wp/",
-      "area": "Informatics",
+      "area": "Computer Science",
       "studyType": "High School Certificate",
-      // "startDate": "2013",
+      "startDate": "2013",
       "endDate": "2018",
       // "score": "10",
       "courses": ["java","C#",".Net","Cisco","SQL","HTML","CSS","git","React",".etc"]
