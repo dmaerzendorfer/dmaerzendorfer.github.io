@@ -1,17 +1,17 @@
 {
   "basics": {
     "name": "David Märzendorfer",
-    "Description": "A Game-Development Student",
+    "Description": "A Game-Developmer and Programmer",
     "image": "",
     "email": "maerzyd@gmail.com",
     "phone": "",
     "url": "https://dmaerzendorfer.github.io",
     "location": {
-      "address": "Schwarzbergweg 27",
-      "postalCode": "5400",
-      "city": "Hallein",
+      "address": "Wolfsedt 4",
+      "postalCode": "4753",
+      "city": "Taiskirchen",
       "countryCode": "AT",
-      "region": "Salzburg"
+      "region": "Upper Austria"
     },
     "profiles": [
       {
@@ -87,7 +87,7 @@
       "area": "MultiMediaTechnology - Game & Simulation Engineering",
       "studyType": "Master",
       "startDate": "2022",
-      "endDate": "Present",
+      "endDate": "2025", //june sponsion, 21.1. war prüfung
       // "score": "10",
       "courses": ["Unity","C#","C++"]
     },
@@ -262,6 +262,14 @@
       // "startDate": "2018-01-01",
       // "endDate": "2018-01-01",
       "url": "https://dmaerzendorfer.github.io/projects/intelliSynth/"
+    },
+    {
+      "name": "Navigation and Manipulation of Multiple Live Viewpoints for Virtual Reality Head-mounted Displays in a Museum Setting",
+      "summary": "Master-Thesis. An investigation on effective placement and manipulation of multiple live viewpoints in VR.",
+      "highlights": ["VR", "Museum", "HoverCam", "Multiple Viewpoints", "Drone"],
+      // "startDate": "2018-01-01",
+      // "endDate": "2018-01-01",
+      "url": "https://dmaerzendorfer.github.io/projects/masterThesis"
     }
   ]
 }

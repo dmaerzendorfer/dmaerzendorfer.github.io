@@ -15,7 +15,7 @@ related_posts: false
 
 ## Intro
 
-Bite me Boss was a game project during my masters studies. Its a 4 player local brawler game made in Unity. It features three distinct minigames in which 4 players can play agains each other. In the first game players need to collect food and sit down in a chair in a twisted version of musical chairs. The second game is a pachinko like game where players need to get a highscore by throwing beercans at passerby. In the last game players need to remember and repeat a button combination.
+Bite me Boss was a game project during my masters studies. It's a 4 player local brawler game made in Unity. It features three distinct minigames in which 4 players can play agains each other. In the first game players need to collect food and sit down in a chair in a twisted version of musical chairs. The second game is a pachinko like game where players need to get a highscore by throwing beercans at passerby. In the last game players need to remember and repeat a button combination.
 
 My responsibility in this project was gameplay programming, as well as implementing VFX and integrating the few art assets we had. 
 

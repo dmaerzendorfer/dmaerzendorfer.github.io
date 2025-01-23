@@ -72,7 +72,7 @@ So the salt-lake was already at the locale of the Schmiede which was neat for ca
         {% include figure.liquid path="assets/img/schmiede/slothSling.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/schmiede/SlothMe.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/schmiede/slothMe.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">

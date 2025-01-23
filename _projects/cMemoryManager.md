@@ -19,4 +19,4 @@ This project is a real short one. It is actually just an old assignment I did du
 
 The assignment itself is a simple Memory-Manager coded in C that supports different strategies (FirstFit, NextFit and BestFit) for allocating memory.
 
-The code for it can be founde <a href="https://github.com/dmaerzendorfer/MemoryManagement/tree/main">here</a>.
+The code for it can be found <a href="https://github.com/dmaerzendorfer/MemoryManagement/tree/main">here</a>.

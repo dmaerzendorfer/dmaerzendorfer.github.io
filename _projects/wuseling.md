@@ -15,7 +15,7 @@ related_posts: false
 
 ## Intro
 
-The Wuseling was a game project during my masters studies. Its a 4 player local brawler game made in Unity. It features 4 players that can shoot Rubber-Link Magic that allows them to fling other players around the arena. The goal is to be the last mage standing.
+The Wuseling was a game project during my masters studies. It's a 4 player local brawler game made in Unity. It features 4 players that can shoot Rubber-Link Magic that allows them to fling other players around the arena. The goal is to be the last mage standing.
 
 My responsibility in this project was game design and gameplay programming. 
 
