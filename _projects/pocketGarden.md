@@ -15,7 +15,7 @@ related_posts: false
 
 ## Intro
 
-<a href="https://maerzy.itch.io/pocketgarden">Pocket Garden</a> is a mobile game about gardening that I created together with my friends (whom I already created <a href= "{{site.url}}/projects/foetality/">Fötality </a> with) as part of the <a href="https://itch.io/jam/jamisland-schmiede2024">JamIsland 2024</a> game jam.
+<a href="https://maerzy.itch.io/pocketgarden">Pocket Garden</a> is a mobile game about gardening that I created together with my friends (whom I already created <a href= "{{site.url}}/projects/foetalityGameJam/">Fötality </a> with) as part of the <a href="https://itch.io/jam/jamisland-schmiede2024">JamIsland 2024</a> game jam.
 
 The topic of the jam was **Circle of Life**. Our idea was to create a relaxing gardening game on your phone where you plant flowers and tend to your garden. We also wanted to add a feature where the garden would undergo different season which would give the player different things to do, eG. instead of planting flowers the player could roll around snow and build a snowman in winter. However, since game jams tend to be rather short we were only able to implement a single season: Summer.
 

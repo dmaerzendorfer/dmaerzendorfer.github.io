@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "David Märzendorfer",
-    "Description": "A Game-Developmer and Programmer",
+    "Description": "A Game-Developer and Programmer",
     "image": "",
     "email": "maerzyd@gmail.com",
     "phone": "",
@@ -270,6 +270,14 @@
       // "startDate": "2018-01-01",
       // "endDate": "2018-01-01",
       "url": "https://dmaerzendorfer.github.io/projects/masterThesis"
+    },
+    {
+      "name": "Foetality: Fetus Deletus",
+      "summary": "A whacky local multiplayer game jam game that was polished until it was eventually released on steam.",
+      "highlights": ["unity", "steam", "local multiplayer"],
+      // "startDate": "2018-01-01",
+      // "endDate": "2018-01-01",
+      "url": "https://dmaerzendorfer.github.io/projects/foetalityRelease/"
     }
   ]
 }
