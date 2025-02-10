@@ -9,6 +9,9 @@ div.container-link-button {
 table.table-cv {
   background-color: transparent !important;
 }
+table.list-group-table{
+  width:100%;
+}
 
 a.btncv {
   color: var(--global-text-color) !important;
@@ -87,6 +90,27 @@ div.container-pdf {
   flex-wrap: wrap;
   align-items: center;
   justify-content: flex-start;
+}
+
+/*****************************
+ * CV SkillBar styles
+ *****************************/
+
+div.skillBarShell{
+  background-color: var(--global-divider-color);
+  height: 1.5rem;
+  border-radius: 25px;  
+  box-sizing: border-box;
+}
+
+div.skillBar{
+  box-sizing: border-box;
+  text-align: right;
+  border-radius: 25px;  
+  padding-right: 7px;
+  background-color: var(--global-theme-color);
+  color: var(--global-card-bg-color);
+  font-weight: bold;
 }
 
 /*****************************

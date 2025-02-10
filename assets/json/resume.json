@@ -4,7 +4,7 @@
     "Description": "A Game-Developer and Programmer",
     "image": "",
     "email": "maerzyd@gmail.com",
-    "phone": "",
+    "phone": "+43 681 20737703",
     "url": "https://dmaerzendorfer.github.io",
     "location": {
       "address": "Wolfsedt 4",
@@ -59,9 +59,9 @@
   ],
   "volunteer": [
     {
-      "organization": "LEVEL UP Gaming Festival",
+      // "organization": "LEVEL UP Gaming Festival",
+      "position": "LEVEL UP Gaming Festival", //listed as position since this is what the url gets
       "location": "Salzburg, Austria",
-      // "position": "Lead Organizer",
       "url": "https://www.levelup-salzburg.at/en/indie-games-area-fh-salzburg/",
       // "startDate": "2014-04-01",
       // "endDate": "2015-07-01",
@@ -69,9 +69,9 @@
       // "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     },
     {
-      "organization": "Ludecat",
+      // "organization": "Ludecat",
       "location": "Salzburg, Austria",
-      // "position": "Lead Organizer",
+      "position": "Ludecat", //listed as position since this is what the url gets
       "url": "https://lude.cat/",
       // "startDate": "2014-04-01",
       // "endDate": "2015-07-01",
@@ -86,8 +86,8 @@
       "url": "https://www.fh-salzburg.ac.at",
       "area": "MultiMediaTechnology - Game & Simulation Engineering",
       "studyType": "Master",
-      "startDate": "2022",
-      "endDate": "2025", //june sponsion, 21.1. war prüfung
+      "startDate": "2022-09-02",
+      "endDate": "2025-02-04", //june sponsion, 21.1. war prüfung
       // "score": "10",
       "courses": ["Unity","C#","C++"]
     },
@@ -190,32 +190,58 @@
   //     "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
   //   }
   // ],
-  // "skills": [
-  //   {
-  //     "name": "Game Development",
-  //     "level": "Master",
-  //     "icon": "fa-solid fa-hashtag",
-  //     "keywords": [
-  //       "Unity"
-  //     ]
-  //   },
-  //   {
-  //     "name": "Programming",
-  //     "level": "Master",
-  //     "icon": "fa-solid fa-hashtag",
-  //     "keywords": [
-  //       "C","C++","C#","php","javascript","SQL","java","HTML","etc."
-  //     ]
-  //   },
-  //   {
-  //     "name": "Basic Knowledge in Electrical Engineering and Embedded Programming",
-  //     "level": "Bachelor",
-  //     "icon": "fa-solid fa-hashtag",
-  //     "keywords": [
-  //       "Microcontrollers", "Raspberry Pi"
-  //     ]
-  //   }
-  // ],
+  "skills": [
+    {
+      "name": "C#",
+      "level": "Master",
+      "barWidth": "80%",
+      "barDisplay": "8/10",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        // "lots of unity and .net"
+      ]
+    },
+    {
+      "name": "C++",
+      "level": "Master",
+      "barWidth": "70%",
+      "barDisplay": "7/10",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        // "bachelor and master studies"
+      ]
+    },
+    {
+      "name": "git",
+      "level": "Master",
+      "barWidth": "80%",
+      "barDisplay": "8/10",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        // "various projects"
+      ]
+    },
+    {
+      "name": "Web development",
+      "level": "Master",
+      "barWidth": "50%",
+      "barDisplay": "5/10",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        // "college, some projects and web projects in generel (lik this website)"
+      ]
+    },
+    {
+      "name": "Electrical Engineering and Embedded Programming",
+      "level": "Bachelor",
+      "barWidth": "40%",
+      "barDisplay": "4/10",
+      "icon": "fa-solid fa-microchip",
+      "keywords": [
+        // "bachelor studies(microcontroller) and minor projects with raspi"
+      ]
+    }
+  ],
   "languages": [
     {
       "language": "German",
