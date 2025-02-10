@@ -56,6 +56,35 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
+    <!-- highlight projects -->
+    {% if site.highlight_projects.enabled %}
+      <h2>
+        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">highlight projects</a>
+      </h2>
+      
+      {% assign highlight_projects = site.projects | where: "highlight", true %}
+
+      <div class="projects">
+      <!-- Generate cards for each project -->
+      {% if page.horizontal %}
+      <div class="container">
+        <div class="row row-cols-1 row-cols-md-2">
+        {% for project in highlight_projects %}
+          {% include projects_horizontal.liquid %}
+        {% endfor %}
+        </div>
+      </div>
+      {% else %}
+      <div class="row row-cols-1 row-cols-md-3">
+        {% for project in highlight_projects %}
+          {% include projects.liquid %}
+        {% endfor %}
+      </div>
+      {% endif %}
+      </div>
+    {% endif %}
+    
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>

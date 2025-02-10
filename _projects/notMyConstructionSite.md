@@ -11,6 +11,7 @@ images:
 toc:
  sidebar: left
 related_posts: false
+highlight: true
 ---
 
 ## Intro
@@ -44,7 +45,7 @@ The raspi is hidden inside the loo and is powered via a generic powerbank. The r
 
 
 ### The Pylons
-This station tries to bring some attention to the fact that some people might be afraid from showing their opinions in public. For this a small podium was built with some questions of which the participants takes one and two answer pylons. The depending on whether the participant lifts the yes or the no pylon a booing or a cheering sound is played.
+This station tries to bring some attention to the fact that some people might be afraid of showing their opinions in public. For this a small podium was built with some questions of which the participants takes one and two answer pylons. The depending on whether the participant lifts the yes or the no pylon a booing or a cheering sound is played.
 
 Once again this station is powered by a **Raspberry PI 3B+**, a **bluetooth speaker**, some **buttons** and a **powerbank**.
 
