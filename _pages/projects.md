@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 display_categories: [game, installation, university]
 horizontal: false
+toc:
+  sidebar: left
 ---
 
 <!-- pages/projects.md -->
