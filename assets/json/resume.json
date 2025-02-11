@@ -45,7 +45,7 @@
       "startDate": "2022-02-01",
       "endDate": "2022-08-31",
       "summary": "Backend Developer working with the php content management system Pimcore.",
-      "highlights": ["Pimcore", "php", "git", "web"]
+      "highlights": ["Pimcore", "PHP", "Git", "Web"]
     },
     {
       "name": "IBM iX Austria GmbH",
@@ -101,7 +101,7 @@
       "startDate": "2019",
       "endDate": "2022",
       // "score": "10",
-      "courses": ["ffmpeg","C++","linux"]
+      "courses": ["FFmpeg","C++","Linux"]
     },
     {
       "institution": "HTL Grieskirchen",
@@ -112,7 +112,7 @@
       "startDate": "2013",
       "endDate": "2018",
       // "score": "10",
-      "courses": ["java","C#",".Net","Cisco","SQL","HTML","CSS","git","React",".etc"]
+      "courses": ["Java","C#",".Net","Cisco","SQL","HTML","CSS","Git","React",".etc"]
     }
   ],
   // "awards": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "name": "git",
+      "name": "Git",
       "level": "Master",
       "barWidth": "80%",
       "barDisplay": "8/10",
