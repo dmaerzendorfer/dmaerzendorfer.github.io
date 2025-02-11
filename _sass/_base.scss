@@ -437,6 +437,24 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+//hide certain parts in print to pdf
+@media print{
+  .no-print{
+    display:none;
+  }
+  #back-to-top, #progress{
+    display:none;
+  }
+  #contentArea.col-sm-9{
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+  .badge{
+    border: none;
+  } 
+}
+
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
