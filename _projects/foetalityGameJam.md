@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Foetality
+title: "Foetality: Game Jam Edition"
 description: An wacky Game Jam Game.
 img: assets/img/fetusDeletus/kill.png
 importance: 2
@@ -70,9 +70,9 @@ The gameplay itself features two players that both control a ragdoll Hannibal-le
 
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/fetusDeletus/gameplay.gif" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/fetusDeletus/gameplay.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/fetusDeletus/foetality.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/fetusDeletus/gameplay.gif" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/fetusDeletus/Countdown.gif" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/fetusDeletus/kill.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/fetusDeletus/titleScreen.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
