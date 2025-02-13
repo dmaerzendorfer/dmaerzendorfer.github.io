@@ -453,6 +453,9 @@ ul.task-list input[type="checkbox"] {
   .badge{
     border: none;
   } 
+  .table td{
+    background-color: var(--global-card-bg-color) !important;
+  }
 }
 
 // Footer
