@@ -47,7 +47,7 @@ Once the plan was set we also gathered some extra wood for the cross strut. We t
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/trestle/planingMachine.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
 </swiper-container>
 <div class="caption">
-    The disk saw and milling cutter
+    The disk saw and planing machine
 </div>
 
 <div class="row mt-3">
