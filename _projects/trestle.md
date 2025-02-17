@@ -18,8 +18,8 @@ highlight: false
 
 This one is a bit out of the ordinary, recently I did some carpentry with my brother and wanted to document it here. He is a carpenter and he was working on a project so I joined in. We made some trestles together!
 
-He thaught me alot about the machines we used and the trade itself.
-Overall we made four pairs of trestles or more like he made three and I made one. Except for one of the pairs, all of them are mode of spruce. The last one was made of oak, which is actually kind of over the top since it is way too good of a wood for this. However, my brother had the wood lying around and it seemed neat to make one from oak.
+He taught me a lot about the machines we used and the trade itself.
+Overall we made four pairs of trestles or more like he made three and I made one. Except for one of the pairs, all of them are made of spruce. The last one was made of oak, which is actually kind of over the top since it is way too good of a wood for this. However, my brother had the wood lying around and it seemed neat to make one from oak.
 
 ---
 
@@ -37,7 +37,7 @@ We started out with just a bunch of 6x4cm wooden beams. Some messy calculations 
     </div>
 </div>
 <div class="caption">
-    The inital wood beams
+    The initial wood beams
 </div>
 
 Once the plan was set we also gathered some extra wood for the cross strut. We then used a disk saw to cut them to length and a planing machine to make sure everything was level as well as straight and square.
@@ -60,14 +60,14 @@ Once the plan was set we also gathered some extra wood for the cross strut. We t
 </div>
 
 During that process my brother also made sure to explain to me all the ways to adjust the machines and the proper way to operate them. During that I noticed the high focus on precise work and safety. In a way it reminded me of QA and IT Security in my own trade.
-So seems those topics are important everywhere.
+So it seems those topics are important everywhere.
 
 ---
 
 ### Day Two
 On this day we made the mortises (holes) for the tenons. We decided to make them square since I thought it would be easier than making every tenon round. Turns out using a chisel to make round holes square is not that much easier tho...
 
-Before making any holes we made sure that the nicer looking wood would be on the visible side of the piece. We started with making all the holes with a long boring machine.
+Before making any holes we made sure that the nicer looking wood would be on the visible side of the piece. We started with making all the holes with a long drilling machine.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -75,7 +75,7 @@ Before making any holes we made sure that the nicer looking wood would be on the
     </div>
 </div>
 <div class="caption">
-    The long boring machine
+    The long drilling machine
 </div>
 
 As already mentioned, the round holes were made square by hand with a chisel.
