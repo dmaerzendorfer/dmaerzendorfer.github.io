@@ -44,9 +44,9 @@ The gameplay itself is roughly the same though: Dash into players, spam buttons 
 
 ## Team
 - David Märzendorfer: Programming Lead & Management 
-- Sina Anders: Art Lead
+- Sina Anders: Co Art Lead
+- Bernadette Erkinger: Co Art Lead
 - Isabelle Posch: Art
-- Bernadette Erkinger: Art
 - Elias Tieber: Audio
 - Johanna Fuchs: VFX
 - Nico Weiser: Programming
