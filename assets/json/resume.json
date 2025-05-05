@@ -225,8 +225,8 @@
     {
       "name": "Web development",
       "level": "Master",
-      "barWidth": "50%",
-      "barDisplay": "5/10",
+      "barWidth": "60%",
+      "barDisplay": "6/10",
       "icon": "fa-solid fa-code",
       "keywords": [
         // "college, some projects and web projects in generel (lik this website)"
