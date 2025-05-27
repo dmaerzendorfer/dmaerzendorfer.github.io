@@ -17,7 +17,7 @@ highlight: false
 
 ## Intro
 
-I wanted to try some vector art. So I created a little illustration for my game <a href="https://store.steampowered.com/app/3457480/Foetality_Fetus_Deletus/">Foetality</a>!
+I wanted to try some vector art. So I created a little illustration for my game <a href="https://store.steampowered.com/app/3457480/Foetality_Fetus_Deletus/">Foetality</a>! The illustration shows a QR code for giving feedback. The idea behind it was to use it at a convention.
 
 For making it I used the free [Inkscape](https://inkscape.org/)!
 It as a nice process of getting to know the software. I am only scratching the edge here, but I got some usefull knowledge and might make some more vector art whenever I need any.
