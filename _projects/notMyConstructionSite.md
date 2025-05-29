@@ -56,6 +56,15 @@ The buttons are installed as preasure plates under the pylons and are hooked up 
 The most anyoying part of this project was getting the raspi to **consistently autostart** into the python scripts. We have tried many different approaches such as chrontabs (which ultimately did not work for this case since we had to make sure both bluetooth and the audio setup where available to the OS). In the end this was **solved via** **custom .desktop files** that run a **launcher shell script** once the desktop is loaded which in turn opens a terminal window **that runs** the **python script**.
 
 ---
+### Awards
+The installation was also awared by the <a href="https://creativclub.at/">CCA</a> and <a href="https://www.adc.de/">ADC</a> in 2025. It won 
+- 3x Gold ADC Talent Award
+- 1x Bronze CCA Venus Award
+- 3x Shortlist CCA Venus Award
+
+- ADC CC Stuttgart Winner
+
+---
 
 ## Gallery
 
