@@ -16,7 +16,7 @@ highlight: true
 
 ## Intro
 
-<a href="https://sinaistanders.itch.io/lost-singnl">Lost Sin(gnl)</a> is a local coop game for two players about recreating a target signal by adjusting to sine waves and additive synthesis. It was created at the 12th <a href="https://itch.io/jam/12th-mmarmalade">MMArmalade</a> game jam in 48 hours. The game was created in Unity and is played on a single gamepad.
+<a href="https://sinaistanders.itch.io/lost-singnl">Lost Sin(gnl)</a> is a local coop game for two players about recreating a target signal by adjusting two sine waves and additive synthesis. It was created at the 12th <a href="https://itch.io/jam/12th-mmarmalade">MMArmalade</a> game jam in 48 hours. The game was created in Unity and is played on a single gamepad.
 
 The topic of the jam was:
 
