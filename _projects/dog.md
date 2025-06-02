@@ -77,7 +77,7 @@ You can already see the VFX in the videos further up. They are quite simple, jus
 ### Audio
 For the audio production I used <a href="https://www.image-line.com/">FL Studio</a> as well as the free <a href="https://www.spitfireaudio.com/bbc-symphony-orchestra-discover">BBC Symphony Orchestra Discover</a> virtual instruments.
 
-I started with creating SFX for the bark and footsteps, for that I wanted to keep it simple and just use plain orchestra instruments.
+I started with creating SFX for the bark and footsteps, for that I wanted to keep it simple and just use plain orchestral instruments.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
