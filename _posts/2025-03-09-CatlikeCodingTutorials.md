@@ -93,5 +93,55 @@ See the <a href="https://catlikecoding.com/unity/tutorials/basics/">original sit
 
 ## Pseudorandom Noise Tutorials
 
+For the basic tutorials I learnt some further things about: 
+- Hashing functions
+- Burst Optimisation and the Unity Job System
+- Value and Gradient Noise
+
+See the <a href="https://catlikecoding.com/unity/tutorials/pseudorandom-noise/">original site</a> for the tutorials.
+
+During this tutorial various variations of noise were implemented, these include:
+- Value Noise
+- Perlin Noise
+- Voronoi Noise
+- Simplex Noise
+
+Each noise is available in 1D, 2D and 3D. Furthermore each noise includes settings for variance and turbulence as well as tiling.
+
+### Gallery
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/catlikeCoding/pseudoRandomNoise/hashWithVerticalOffset.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/catlikeCoding/pseudoRandomNoise/hashScaledAndRotated.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/catlikeCoding/pseudoRandomNoise/torusShape.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    The first part was creating a hashing function implementation (SmallHash). The hashing was then used to create noise.
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/catlikeCoding/pseudoRandomNoise/3dPerlinNoiseSphere.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/catlikeCoding/pseudoRandomNoise/3dSphereSimplexValueNoise.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/catlikeCoding/pseudoRandomNoise/VoronoiWorleyF2MinusF1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Later on various variations of noise, such as Perlin, Voronoi and Simplex were added. The Voronoi noise also features multiple distance and evaluation functions to, for instance, use the second closest Voronoi point.
+</div>
+
+---
+
+## Procedural Meshes Tutorial
+
 <h3 style="text-align:center">WIP</h3>
 

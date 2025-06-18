@@ -61,7 +61,6 @@ The installation was also awared by the <a href="https://creativclub.at/">CCA</a
 - 3x Gold ADC Talent Award
 - 1x Bronze CCA Venus Award
 - 3x Shortlist CCA Venus Award
-
 - ADC CC Stuttgart Winner
 
 ---
