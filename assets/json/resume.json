@@ -81,12 +81,23 @@
     }
   ],
   "education": [
+     {
+      "institution": "University of Applied Science Hagenberg",
+      "location": "Hagenberg, Austria",
+      "url": "https://fh-ooe.at/campus-hagenberg",
+      "area": "Digital Arts",
+      "studyType": "Master of Arts",
+      "startDate": "2025-09-30",
+      "endDate": "", //june sponsion, 21.1. war prüfung
+      // "score": "10",
+      "courses": ["Game Design","VFX", "Shaders"]
+    },
     {
       "institution": "University of Applied Science Salzburg",
       "location": "Salzburg, Austria",
       "url": "https://www.fh-salzburg.ac.at",
       "area": "MultiMediaTechnology - Game & Simulation Engineering",
-      "studyType": "Master",
+      "studyType": "Master of Science",
       "startDate": "2022-09-02",
       "endDate": "2025-02-04", //june sponsion, 21.1. war prüfung
       // "score": "10",
@@ -97,7 +108,7 @@
       "location": "Salzburg, Austria",
       "url": "https://www.fh-salzburg.ac.at",
       "area": "Information Technology & Systems Management - Media Informatics & Image Processing",
-      "studyType": "Bachelor",
+      "studyType": "Bachelor of Science",
       "startDate": "2019",
       "endDate": "2022",
       // "score": "10",
