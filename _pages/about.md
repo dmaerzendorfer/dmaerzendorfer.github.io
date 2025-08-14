@@ -6,7 +6,7 @@ subtitle: Game Developer
 
 profile:
   align: right
-  image: me.jpg
+  image: Me.jpeg
   image_circular: true # crops the image to make it circular
   more_info: #>
     #<p>This is me btw.</p>
