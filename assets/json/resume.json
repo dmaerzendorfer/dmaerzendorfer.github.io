@@ -30,8 +30,26 @@
   },
   "work": [
     {
+      "name": "Steinbock Bouldergym",
+      "position": "Counter Staff",
+      "url": "https://www.dersteinbock-linz.at/",
+      "startDate": "2025-09-09",
+      //"endDate": "2025-09-07",
+      "summary": "Check in customers and serve them at the counter",
+      "highlights": ["Customer Service", "Bouldering"]
+    },
+    {
+      "name": "Ars Electronica Festival 2025",
+      "position": "Freelance Tour Guide",
+      "url": "https://ars.electronica.art/panic/en/",
+      "startDate": "2025-09-03",
+      "endDate": "2025-09-07",
+      "summary": "Giving guided tours for the exhibit: 'Sweet Dreams' by Marschmallow Laser Feast",
+      "highlights": ["Museum", "Guided Tours"]
+    },
+    {
       "name": "Mezzanin Theater Graz",
-      "position": "Freelancer",
+      "position": "Freelance Game Developer",
       "url": "https://mezzanintheater.at/",
       "startDate": "2023-01-01",
       "endDate": "2023-05-31",
