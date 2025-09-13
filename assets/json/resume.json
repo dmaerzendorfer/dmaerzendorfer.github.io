@@ -108,7 +108,7 @@
       "startDate": "2025-09-30",
       "endDate": "", //june sponsion, 21.1. war prüfung
       // "score": "10",
-      "courses": ["Game Design","VFX", "Shaders"]
+      "courses": ["Game Design","VFX", "Shader Graph", "HLSL"]
     },
     {
       "institution": "University of Applied Science Salzburg",
@@ -119,7 +119,7 @@
       "startDate": "2022-09-02",
       "endDate": "2025-02-04", //june sponsion, 21.1. war prüfung
       // "score": "10",
-      "courses": ["Unity","C#","C++"]
+      "courses": ["Unity","C#","C++", "Vulkan"]
     },
     {
       "institution": "University of Applied Science Salzburg",
@@ -262,13 +262,23 @@
       ]
     },
     {
-      "name": "Electrical Engineering and Embedded Programming",
+      "name": "Embedded Systems & Electronics",//"Electrical Engineering and Embedded Programming",
       "level": "Bachelor",
       "barWidth": "40%",
       "barDisplay": "4/10",
       "icon": "fa-solid fa-microchip",
       "keywords": [
         // "bachelor studies(microcontroller) and minor projects with raspi"
+      ]
+    },
+    {
+      "name": "Vulkan and HLSL",
+      "level": "Master",
+      "barWidth": "60%",
+      "barDisplay": "5/10",
+      "icon": "fa-solid fa-microchip",
+      "keywords": [
+        // "MMT Master studies and various projects"
       ]
     }
   ],
