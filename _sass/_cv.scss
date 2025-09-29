@@ -9,8 +9,9 @@ div.container-link-button {
 table.table-cv {
   background-color: transparent !important;
 }
-table.list-group-table{
-  width:100%;
+
+table.list-group-table {
+  width: 100%;
 }
 
 a.btncv {
@@ -96,21 +97,58 @@ div.container-pdf {
  * CV SkillBar styles
  *****************************/
 
-div.skillBarShell{
+div.skillBarShell {
   background-color: var(--global-divider-color);
   height: 1.5rem;
-  border-radius: 25px;  
+  border-radius: 25px;
   box-sizing: border-box;
 }
 
-div.skillBar{
+div.skillBar {
   box-sizing: border-box;
   text-align: right;
-  border-radius: 25px;  
+  border-radius: 25px;
   padding-right: 7px;
   background-color: var(--global-theme-color);
   color: var(--global-card-bg-color);
   font-weight: bold;
+}
+
+.skillDetails {
+  //background-color: var(--global-divider-color);
+  color: var(--global-text-color);
+  z-index: -1;
+  border-radius: 25px;
+  width: 100%;
+
+  opacity: 0;
+  transform: translateY(-10px);
+  transition: all 0.3s;
+
+  display: block;
+  height: 0px;
+  interpolate-size: allow-keywords;
+
+}
+
+.skillDetails table {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.skillDetails table tr {
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  padding: 7px;
+}
+
+.skillBarShell:hover+.skillDetails {
+  opacity: 1;
+  transform: translateY(0);
+  height: auto;
+  height: calc-size(100%);
+
 }
 
 /*****************************

@@ -75,7 +75,7 @@ I do get the feeling I did bite off more than I can chew here. I should first do
 
 ## Summary
 
-Overall I dreamt a bit too big. I wanted to create SDF clouds, and then a kuwahara post-process when it did not work out. During that I failed often and ran into many walls. In the end stuff did not work and I realised my error of trying to hard to soon. But in luckily in the process I learnt alot about:
+Overall I dreamt a bit too big. I wanted to create SDF clouds, and then a kuwahara post-process when it did not work out. During that I failed often and ran into many walls. In the end stuff did not work and I realised my error of trying to hard to soon. But luckily in the process I learnt alot about:
 - HLSL
 - Scriptable Render Passes
 - Raymarching

@@ -1,6 +1,6 @@
 <div class="list-groups">
   {% for content in data[1] %}
-    <div class="list-group col-md-6" title="{{ content.level }}">
+    <div class="list-group col-md-6"">
       <table class="table-cv list-group-table">
         <tbody>
           <tr>
@@ -25,17 +25,21 @@
                 <div class = "skillBarShell">
                   <div class="skillBar" style="width:{{content.barWidth}}">{{content.barDisplay}}</div>
                 </div>
+                <div class="skillDetails">
+                    <table>
+                   {% for item in content.keywords %}
+                    <tr>
+                      <td class="list-group-name">
+                        <b>{{ item }}</b>
+                      </td>
+                    </tr>
+                    {% endfor %}
+                    </table>
+                  </div>
               </td>
           </tr>
 
-          {% for item in content.keywords %}
-            <tr>
-              <td></td>
-              <td class="list-group-name">
-                <b>{{ item }}</b>
-              </td>
-            </tr>
-          {% endfor %}
+         
         </tbody>
       </table>
     </div>
