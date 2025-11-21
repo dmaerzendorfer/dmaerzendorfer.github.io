@@ -24,13 +24,11 @@ So the result of this project is a **Blur Scriptable Render Pass & Postprocess**
 ## Result
 Here is the result first though:
 
+
 <img-comparison-slider>
   {% include figure.liquid path="assets/img/blur/clearCube.png" class="img-fluid rounded z-depth-1" slot="first" %}
   {% include figure.liquid path="assets/img/blur/blurCube.png" class="img-fluid rounded z-depth-1" slot="second" %}
 </img-comparison-slider>
-
-**Repository:**   
-<a href="https://github.com/dmaerzendorfer/sdfClouds">https://github.com/dmaerzendorfer/sdfClouds</a>
 
 
 ---

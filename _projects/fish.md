@@ -4,7 +4,7 @@ title: Fish
 description: I modelled a fish and displayed it a bit.
 img: /assets/img/fish/tonsOfFish.png
 importance: 1
-category: modelling
+category: blender
 related_publications: false
 images:
  slider: true

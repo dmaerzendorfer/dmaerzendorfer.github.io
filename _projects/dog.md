@@ -4,7 +4,7 @@ title: Dog
 description: I tried out rigging with a Keith Haring Dog.
 img: /assets/img/dog/dogRef.png
 importance: 1
-category: modelling
+category: blender
 related_publications: false
 images:
  slider: true
