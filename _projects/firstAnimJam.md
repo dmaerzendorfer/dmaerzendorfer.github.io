@@ -22,15 +22,15 @@ During my MA Studies in Hagenberg I joined the local Animation-Jam. This was my 
 ---
 
 ## Result
-It led to this! A partial result of an audio visualiser I made 100% in blender that I never finished since I didn't have enough time to finish the rendering! 
+It led to this! A partial result of an audio visualiser I made 100% in blender that I never finished since I didn't have enough time for the whole rendering! 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/firstAnimJam/PartialResult.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
+        {% include video.liquid path="assets/img/firstAnimJam/FinalResult.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true%}
     </div>
 </div>
 <div class="caption">
-    The partial result is quite crude, since I ran out of time and just smacked together what I had rendered so far.
+    I ran out of time so I only rendered one third of the actual audio clip. The result is also a bit crude and rushed at times.
 </div>
 
 ---
@@ -50,4 +50,4 @@ For the audio I planned to use <a href="https://www.youtube.com/watch?v=S2keRbBm
 I learnt alot about **Blender** in general, **Geo-Nodes** and most importantly that **rendering takes looooooong**. 
 
 But I think if I had more time for the jam (or a render farm) it would have worked out nicely. 
-This jam also showed my why I like game engines so much: ***They can render in realtime!***
+This jam also showed me why I like game engines so much: ***They can render in realtime!***
