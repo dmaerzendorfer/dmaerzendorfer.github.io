@@ -108,7 +108,7 @@
       "startDate": "2025-09-30",
       "endDate": "", //june sponsion, 21.1. war prüfung
       // "score": "10",
-      "courses": ["Game Design","VFX", "Shader Graph", "HLSL"]
+      "courses": ["Game Design","VFX", "Shaders", "Blender"]
     },
     {
       "institution": "University of Applied Science Salzburg",
