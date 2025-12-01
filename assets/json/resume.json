@@ -252,6 +252,15 @@
       ]
     },
     {
+      "name": "Blender",
+      "barWidth": "60%",
+      "barDisplay": "6/10",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "- experience through projects during my master studies"
+      ]
+    },
+    {
       "name": "Web development",
       "barWidth": "60%",
       "barDisplay": "6/10",
