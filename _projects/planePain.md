@@ -51,7 +51,7 @@ The settings in the menu give players the option to customise various things suc
     </div>
 </div>
 <div class="caption">
-    The settings allow for some fastly different gameplay, such as stationary machine gun planes!
+    The settings allow for some vastly different gameplay, such as stationary machine gun planes!
 </div>
 
 <div class="row mt-3">
