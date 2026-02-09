@@ -33,7 +33,7 @@ In the game each player controls a paper plane with two keyboard buttons they ch
 - clones behave just like the shooter, meaning they steer the same and also shoot at the same time
 - last plane remaining wins!
 
-The settings in the menu give players the option to customise various things such as shoot cooldown, screen wrapping, initial player clones and more! 
+The settings in the menu give players the option to customise various things such as dart cooldown, screen wrapping, initial player clones and more! 
 
 ---
 
