@@ -2,7 +2,7 @@
 layout: page
 title: i know it
 description: A faux water simulation I did in university.
-img: /assets/img/iknowIt/hero.png
+img: /assets/img/iknowit/hero.png
 importance: 1
 category: blender
 related_publications: false
@@ -17,7 +17,7 @@ highlight: false
 
 ## Intro
 
-During my master studies at the FH Hagenberg we created an animation in Blender in our first semester. This project called 'i know it' is based on a poem by Lea (one of my team mates). It features two people in a room that slowly fills with more water. The people are 2D and are created with blenders grease pencil. The Environment and water are 3D. My part in this was creating everything related to the water.
+In my first semester at the FH Hagenberg we created an animation in Blender. This project called 'i know it' is based on a poem by Lea (one of my team mates). It features two people in a room that slowly fills with more water. The people are 2D and are created with blenders grease pencil. The Environment and water are 3D. My part in this was creating everything related to the water.
 
 **Team:**
 - Lea Obermair: Management, 2D Animation, Audio, Compositing
@@ -28,7 +28,7 @@ During my master studies at the FH Hagenberg we created an animation in Blender 
 ---
 
 ## Result
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XCSgj8ea9Gk?si=2JcYq1Ec_CI5HY4C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XCSgj8ea9Gk?si=UcHK28GRc7-JHdm7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <div class="caption">
     Only the first half of the animation is done so far.
 </div>
@@ -37,7 +37,7 @@ During my master studies at the FH Hagenberg we created an animation in Blender 
 
 ## Technical Detail
 
-The implementation of the water is one main shader with a layered voronoi texture that flows and distorts naturally. Besides this the water utilises blenders dynamic paint system in order to create outlines around objects that intersect with the water plane.
+The implementation of the water is a shader with a layered voronoi texture that flows and distorts naturally. Besides this the water utilises Blender's dynamic paint system in order to create outlines around objects that intersect with the water plane.
 For shots with water droplets, the drops were animated via a deform rig by hand. Other shots also utilised particle systems that spawn said drops (which in turn are dynamic paint brushes), yet other shots utilised fluid simulations or lattices in order to be deformed.
 
 The tech for the water was inspired by an <a href="https://www.instagram.com/p/Ctj4mgTKEv_/"> instagram post</a>.
@@ -91,7 +91,7 @@ The implementation was a process, here are some visuals of the development:
     </div>
 </div>
 <div class="caption">
-    A more realistic water has also been tried at one point
+    A more realistic water has also been tried at one point.
 </div>
 
 
