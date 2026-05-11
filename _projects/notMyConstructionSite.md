@@ -11,7 +11,7 @@ images:
 toc:
  sidebar: left
 related_posts: false
-highlight: true
+highlight: false
 ---
 
 ## Intro
