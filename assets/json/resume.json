@@ -30,11 +30,20 @@
   },
   "work": [
     {
+      "name": "Ahoi Kapptn!",
+      "position": "QA Engineer Internship",
+      "url": "https://ahoikapptn.com/en",
+      "startDate": "2026-07-13",
+      "endDate": "2026-09-13",
+      "summary": "Part of the QA team",
+      "highlights": ["QA", "Automated testing", "Springboot", "Kotlin"]
+    },
+    {
       "name": "Steinbock Bouldergym",
       "position": "Counter Staff",
       "url": "https://www.dersteinbock-linz.at/",
       "startDate": "2025-09-09",
-      //"endDate": "2025-09-07",
+      //"endDate": "2026-07-13",
       "summary": "Check in customers and serve them at the counter",
       "highlights": ["Customer Service", "Bouldering"]
     },
